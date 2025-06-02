@@ -247,7 +247,7 @@ export default function OfertaPage() {
     if (navigator.vibrate) {
       navigator.vibrate(50)
     }
-    window.open("https://pay.hotmart.com/exemplo", "_blank")
+    window.open("https://pay.kirvano.com/28256fcf-69b1-4c29-b25e-5742c7c25b05", "_blank")
   }
 
   const closeBackRedirect = () => {

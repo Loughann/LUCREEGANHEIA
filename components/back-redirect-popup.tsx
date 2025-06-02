@@ -50,7 +50,7 @@ export function BackRedirectPopup({ isOpen, onClose }: BackRedirectPopupProps) {
     if (navigator.vibrate) {
       navigator.vibrate([100, 50, 100, 50, 100])
     }
-    window.open("https://pay.hotmart.com/oferta-exclusiva-999", "_blank")
+    window.open("https://pay.kirvano.com/6b958fac-f4cf-4f7c-b870-72a2a7c70109", "_blank")
   }
 
   const handleClose = () => {
